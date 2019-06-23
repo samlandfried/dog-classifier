@@ -1,3 +1,7 @@
+# [From Udacity's Deep Learning Nanodegree](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
+
+I copied the code instead of forking the repo because Udacity's is a mono repo containing all the projects in the course, and I'd rather keep the repos separate on my GH.
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
